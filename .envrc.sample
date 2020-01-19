@@ -1,0 +1,6 @@
+export MYSQL_SCHEME="mysql"
+export MYSQL_USER="(your name)"
+export MYSQL_PASSWORD="(your passowrd)"
+export MYSQL_IP="localhost"
+export MYSQL_PORT="3306"
+export MYSQL_DATABASE="minimum_wages"
