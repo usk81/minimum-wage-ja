@@ -10,7 +10,6 @@ require (
 	github.com/lib/pq v1.1.1 // indirect
 	github.com/oklog/ulid/v2 v2.0.2
 	github.com/usk81/bone v0.0.0-20191223133802-5a74b5961c51
-	golang.org/x/net v0.0.0-20190619014844-b5b0513f8c1b // indirect
-	golang.org/x/text v0.3.2
+	golang.org/x/text v0.3.8
 	google.golang.org/appengine v1.6.1 // indirect
 )
